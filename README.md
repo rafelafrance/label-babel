@@ -1,2 +1,2 @@
 # label_babel
-Find and classify labels on images of museum specimins
+Find and classify labels on images of museum specimens
