@@ -8,7 +8,7 @@ from datetime import datetime
 import argparse
 # from tqdm import tqdm
 import requests
-from panoptes_client import Panoptes, Workflow
+from panoptes_client import Panoptes, Workflow  # pylint: disable=import-error
 
 
 def download_images(args):
