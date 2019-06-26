@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 
+.vscode/
+.idea/
 venv/
 
 junk*
@@ -9,6 +11,5 @@ data/
 !data/expedition/.gitkeep
 !data/images/.gitkeep
 
-.vscode/
 __pycache__/
 
