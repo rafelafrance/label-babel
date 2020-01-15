@@ -11,5 +11,7 @@ data/
 !data/expedition/.gitkeep
 !data/images/.gitkeep
 
+docs/local/
+
 __pycache__/
 
